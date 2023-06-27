@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+.container {
+    background-color: lightcyan;
+    display: flex;
+    height: 50px;
+}
+
+.left {
+    flex: 4;
+    background-color: lightseagreen;
+}
+
+.mid {
+    flex: 4;
+    background-color: lightskyblue;
+}
+
+.right {
+    flex: 4;
+    background-color: lightslategray;
+}
