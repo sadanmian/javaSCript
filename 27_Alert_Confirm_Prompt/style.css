@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.container {
+    background-color: lightgoldenrodyellow;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    background-color: lightgreen;
+    height: 100px;
+}
