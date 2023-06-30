@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    background-color: lightblue;
+}
+
+li {
+    /* background-color: pink; */
+    padding: 20px;
+}
