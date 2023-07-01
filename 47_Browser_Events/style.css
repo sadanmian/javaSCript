@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+button {
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    border: none;
+    background-color: white;
+    font-style: oblique;
+    cursor: pointer;
+    font-weight: bold;
+}
