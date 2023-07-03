@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* background-color: aliceblue; */
+}
+
+#time {
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 30px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkred;
+    width: 70%;
+}
+
+#footer {
+    background-color: darkslategray;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
